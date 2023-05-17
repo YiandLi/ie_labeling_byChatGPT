@@ -2,7 +2,7 @@ import os, json, re
 from string import Template
 import openai  # https://platform.openai.com/docs/api-reference
 
-openai.api_key = "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"
+openai.api_key = "sk-kZF..."
 model = "text-davinci-003"
 data_dir_path = "中文wiki测试数据"
 
